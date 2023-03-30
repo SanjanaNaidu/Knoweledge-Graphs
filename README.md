@@ -1,5 +1,7 @@
 # Knowledge-Graphs
 Progress on Knowledge graphs
+
+
 GCN:
 GCN is a type of neural network designed to work with graph-structured data, where the data is represented as a graph consisting of nodes and edges. GCNs can be used for various tasks such as node classification, link prediction, and graph classification. In this notebook, the GCN is applied to a node classification task.
 
