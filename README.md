@@ -25,3 +25,17 @@ Next, the notebook focuses on extracting entities related to addresses, such as 
 The notebook also provides examples of how the knowledge graph can be queried and visualized using the NetworkX and Matplotlib libraries.
 
 Overall, the notebook demonstrates how NLP techniques can be used to automatically extract entities from text and create a knowledge graph that represents the relationships between the entities. 
+
+
+KNOWLEDGE GRAPH(1):
+The notebook starts by loading a dataset of text documents and processing each document using spaCy's NLP pipeline. The pipeline identifies entities in the text and categorizes them into predefined types such as persons, organizations, and locations.
+
+Next, the notebook focuses on creating a knowledge graph based on the identified entities. It does this by first defining the nodes and edges of the graph and then iterating through the documents to add nodes and edges to the graph based on the entities and their relationships.
+
+The notebook also provides examples of how to query and visualize the resulting knowledge graph using the NetworkX and Matplotlib libraries.
+
+Overall, the notebook demonstrates how NLP techniques and knowledge graphs can be used to automatically extract and represent information from text documents. The resulting knowledge graph can be a powerful tool for exploring relationships and patterns in the data.
+
+
+
+
