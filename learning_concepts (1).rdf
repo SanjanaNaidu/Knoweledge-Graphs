@@ -1,0 +1,2467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.com/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/195">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Heap</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Heap</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/181"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/141">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList-&gt;ArrayList Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/140"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/84">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph Terms</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Terms</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/82"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/100">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Non-recursive Alg. Technique</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Non-recursive Alg. Technique</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/91"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/188">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Tree Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/187"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/219">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Merge Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Sort-&gt;Merge Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/218"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/106">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Quick Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Sort-&gt;Quick Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/104"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/251">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array-&gt;Array Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/250"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/283">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>List Array Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List-&gt;List Array Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/281"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/207">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linear Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Search-&gt;Linear Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/206"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/77">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Post-order Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;Post-order Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/74"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/9">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Aggregation</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Aggregation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/5"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/69">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree Terms</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Terms</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/67"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/179">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Map Handling Collision</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Hash Map Handling Collision</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/176"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/103">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Binary Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Binary Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/101"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/184">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/181"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/121">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Polymorphism</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Inheritance-&gt;Polymorphism</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/120"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/321">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linear Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Search-&gt;Linear Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/320"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/3">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Object</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction-&gt;Object</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/1"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/92">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/91"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/217">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Binary Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Binary Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/215"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/8">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Composition</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Composition</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/5"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/5">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Class Relation</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/0"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/267">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DLL Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List-&gt;DLL Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/264"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/60">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Table Conceptual View</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table-&gt;Hash Table Conceptual View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/58"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/1">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Abstraction</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/0"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/300">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree BFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Traversal-&gt;Tree BFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/298"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/198">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph Terms</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Terms</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/196"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/33">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>SLL Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List-&gt;SLL Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/32"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/314">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Adjacent Matrix</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Adjacent Matrix</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/310"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/0">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>OOP</rdfs:label>
+    <rdfs:comment>OOP</rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/277">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/272"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/79">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Search Tree</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Search Tree</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/73"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/138">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array-&gt;Array Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/136"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/61">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Table Handling Collision</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table-&gt;Hash Table Handling Collision</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/58"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/118">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Reference Variables</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction-&gt;Object-&gt;Reference Variables</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/117"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/147">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>SLL Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List-&gt;SLL Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/146"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/348">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Numeric</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/344"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189302</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/245">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Class Generics</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Generics-&gt;Class Generics</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/243"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/326">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Bubble Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Bubble Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/323"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/133">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>O Notation</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Algorithm Analysis-&gt;O Notation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/132"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/238">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DS</rdfs:label>
+    <rdfs:comment>DS</rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/126">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ADTs</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;ADTs</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/125"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/57">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Non-linear DS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/10"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/320">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/319"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/225">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Dynamic Programming</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Dynamic Programming</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/221"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/173">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Function (Hash Table)</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table-&gt;Hash Function (Hash Table)</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/172"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/74">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Tree Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/73"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/312">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph Terms</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Terms</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/310"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/306">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Tree BFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;Binary Tree BFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/302"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/113">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Approximation Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Approximation Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/107"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/11">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Basics</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/10"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/310">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/285"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/223">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Divide and Conquer</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Divide and Conquer</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/221"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/24">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array-&gt;Array Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/22"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/226">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Greedy Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Greedy Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/221"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/273">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/272"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/111">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Dynamic Programming</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Dynamic Programming</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/107"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/160">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack Conceptal View</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack-&gt;Stack Conceptal View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/159"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/58">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Table</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/57"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/337">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Divide and Conquer</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Divide and Conquer</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/335"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/6">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Inheritance</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Inheritance</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/5"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/281">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>List</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/272"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/59">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Function (Hash Table)</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table-&gt;Hash Function (Hash Table)</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/58"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/253">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array-&gt;Array Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/250"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/224">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Decrease and Conquer</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Decrease and Conquer</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/221"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/7">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Polymorphism</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Inheritance-&gt;Polymorphism</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/6"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/129">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Generics</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Generics</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/125"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/89">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph BFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Traversal-&gt;Graph BFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/87"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/201">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/196"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/190">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>In-order Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;In-order Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/188"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/259">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Reference Variable</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Linked List-&gt;Reference Variable</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/258"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/334">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Quick Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Sort-&gt;Quick Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/332"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/336">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Iterative Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Iterative Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/335"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/185">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree DFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Traversal-&gt;Tree DFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/184"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/256">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList-&gt;ArrayList Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/254"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/70">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/67"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/192">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Tree BFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;Binary Tree BFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/188"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/131">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Class Generics</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Generics-&gt;Class Generics</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/129"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/243">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Generics</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Generics</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/239"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/101">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/90"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/270">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>CDLL Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List-&gt;CDLL Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/268"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/20">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Unit Testing</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Unit Testing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/11"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/203">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph BFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Traversal-&gt;Graph BFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/201"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/175">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Table Handling Collision</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table-&gt;Hash Table Handling Collision</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/172"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/234">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Inheritance</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Inheritance</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/233"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/261">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>SLL Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List-&gt;SLL Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/260"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/351">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>dfasf</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/319"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/53">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>List</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/44"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/171">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Non-linear DS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/124"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/167">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>List</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/158"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/210">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Insertion Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Insertion Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/209"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/295">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/285"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/287">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Function (Hash Table)</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table-&gt;Hash Function (Hash Table)</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/286"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/145">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Reference Variable</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Linked List-&gt;Reference Variable</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/144"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/158">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linear DS</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/124"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/211">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Selection Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Selection Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/209"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/91">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Non-recursive Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/90"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/112">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Greedy Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Greedy Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/107"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/324">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Insertion Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Insertion Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/323"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/143">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList-&gt;ArrayList Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/140"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/14">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Abstract Class</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;ADTs-&gt;Abstract Class</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/12"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/25">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array-&gt;Array Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/22"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/63">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Function (Hash Map)</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Hash Function (Hash Map)</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/62"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/342">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Data Exploration and Analysis</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189302</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/252">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array-&gt;Array Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/250"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/319">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Non-recursive Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/318"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/296">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree Definition</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Definition</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/295"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/214">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Non-recursive Alg. Technique</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Non-recursive Alg. Technique</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/205"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/197">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph Conceptual View</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Conceptual View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/196"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/26">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/21"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/37">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DLL Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List-&gt;DLL Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/36"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/23">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array-&gt;Array Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/22"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/93">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linear Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Search-&gt;Linear Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/92"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/99">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Heap Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Heap Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/95"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/144">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/135"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/229">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Abstraction</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/228"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/166">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue Linked List Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue-&gt;Queue Linked List Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/163"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/140">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/135"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/146">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Singly Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/135"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/200">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Adjacent Matrix</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Adjacent Matrix</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/196"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/297">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree Terms</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Terms</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/295"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/242">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Abstract Class</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;ADTs-&gt;Abstract Class</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/240"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/276">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack Linked List Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack-&gt;Stack Linked List Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/273"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/161">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack Array Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack-&gt;Stack Array Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/159"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/272">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linear DS</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/238"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/42">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>CDLL Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List-&gt;CDLL Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/40"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/316">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph DFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Traversal-&gt;Graph DFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/315"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/221">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Technique</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/204"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/323">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/319"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/327">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Heap Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Heap Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/323"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/132">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Algorithm Analysis</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Algorithm Analysis</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/125"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/114">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>OOP</rdfs:label>
+    <rdfs:comment>OOP</rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/120">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Inheritance</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Inheritance</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/119"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/46">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack Conceptal View</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack-&gt;Stack Conceptal View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/45"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/335">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Technique</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/318"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/315">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/310"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/268">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Circular Doubly Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/249"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/64">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Map Conceptual View</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Hash Map Conceptual View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/62"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/102">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Alg. Definition</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Alg. Definition</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/101"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/18">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Algorithm Analysis</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Algorithm Analysis</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/11"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/29">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList-&gt;ArrayList Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/26"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/309">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Heap</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Heap</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/295"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/56">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linked List Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List-&gt;Linked List Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/53"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/95">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/91"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/241">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Interface</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;ADTs-&gt;Interface</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/240"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/73">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Tree</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/67"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/329">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/318"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/258">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/249"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/266">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DLL Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List-&gt;DLL Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/264"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/82">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/57"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/313">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Adjacent List</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Adjacent List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/310"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/209">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/205"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/107">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Technique</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/90"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/87">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/82"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/2">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Class</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction-&gt;Class</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/1"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/196">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/171"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/149">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>SLL Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List-&gt;SLL Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/146"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/50">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue Conceptal View</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue-&gt;Queue Conceptal View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/49"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/305">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Post-order Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;Post-order Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/302"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/206">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/205"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/34">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>SLL Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List-&gt;SLL Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/32"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/116">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Class</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction-&gt;Class</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/115"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/174">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Table Conceptual View</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table-&gt;Hash Table Conceptual View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/172"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/346">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/344"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189302</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/83">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph Conceptual View</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Conceptual View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/82"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/27">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList-&gt;ArrayList Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/26"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/212">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Bubble Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Bubble Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/209"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/81">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Heap</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Heap</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/67"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/150">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Doubly Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/135"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/36">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Doubly Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/21"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/47">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack Array Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack-&gt;Stack Array Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/45"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/338">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Decrease and Conquer</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Decrease and Conquer</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/335"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/125">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Basics</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/124"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/331">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Binary Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Binary Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/329"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/187">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Tree</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/181"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/142">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList-&gt;ArrayList Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/140"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/275">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack Array Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack-&gt;Stack Array Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/273"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/43">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>CDLL Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List-&gt;CDLL Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/40"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/119">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Class Relation</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/114"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/165">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue Array Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue-&gt;Queue Array Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/163"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/90">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Algorithms</rdfs:label>
+    <rdfs:comment>Algorithms</rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/139">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array-&gt;Array Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/136"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/265">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DLL Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List-&gt;DLL Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/264"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/191">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Post-order Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;Post-order Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/188"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/260">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Singly Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/249"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/304">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>In-order Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;In-order Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/302"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/55">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>List Array Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List-&gt;List Array Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/53"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/66">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Java Built-in HashMap</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Java Built-in HashMap</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/62"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/45">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/44"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/236">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Composition</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Composition</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/233"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/124">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DS</rdfs:label>
+    <rdfs:comment>DS</rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/159">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/158"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/108">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Iterative Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Iterative Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/107"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/222">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Iterative Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Iterative Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/221"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/177">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Function (Hash Map)</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Hash Function (Hash Map)</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/176"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/228">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>OOP</rdfs:label>
+    <rdfs:comment>OOP</rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/49">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/44"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/76">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>In-order Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;In-order Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/74"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/178">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Map Conceptual View</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Hash Map Conceptual View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/176"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/233">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Class Relation</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/228"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/44">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linear DS</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/10"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/325">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Selection Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Selection Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/323"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/350">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>dasf</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/318"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/186">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree BFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Traversal-&gt;Tree BFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/184"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/292">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Map Conceptual View</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Hash Map Conceptual View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/290"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/85">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Adjacent List</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Adjacent List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/82"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/322">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Search-&gt;Binary Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/320"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/137">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array-&gt;Array Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/136"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/311">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph Conceptual View</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Conceptual View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/310"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/172">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Table</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/171"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/41">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>CDLL Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List-&gt;CDLL Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/40"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/232">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Reference Variables</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction-&gt;Object-&gt;Reference Variables</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/231"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/30">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/21"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/244">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Generic Methods</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Generics-&gt;Generic Methods</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/243"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/51">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue Array Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue-&gt;Queue Array Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/49"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/105">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Merge Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Sort-&gt;Merge Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/104"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/237">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Aggregation</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Aggregation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/233"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/12">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ADTs</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;ADTs</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/11"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/193">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Search Tree</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Search Tree</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/187"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/32">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Singly Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/21"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/294">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Java Built-in HashMap</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Java Built-in HashMap</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/290"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/302">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Tree Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/301"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/110">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Decrease and Conquer</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Decrease and Conquer</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/107"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/97">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Selection Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Selection Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/95"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/330">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Alg. Definition</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Alg. Definition</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/329"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/109">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Divide and Conquer</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Divide and Conquer</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/107"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/220">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Quick Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Sort-&gt;Quick Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/218"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/347">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Nominal</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/344"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189302</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/301">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Tree</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/295"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/290">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Map</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/285"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/317">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph BFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Traversal-&gt;Graph BFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/315"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/19">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>O Notation</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Algorithm Analysis-&gt;O Notation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/18"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/152">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DLL Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List-&gt;DLL Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/150"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/128">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Abstract Class</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;ADTs-&gt;Abstract Class</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/126"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/282">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>List Conceptal View</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List-&gt;List Conceptal View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/281"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/239">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Basics</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/238"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/349">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Ordinal</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/344"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189302</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/151">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DLL Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List-&gt;DLL Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/150"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/249">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Building Blocks</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/238"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/202">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph DFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Traversal-&gt;Graph DFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/201"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/115">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Abstraction</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/114"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/98">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Bubble Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Bubble Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/95"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/127">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Interface</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;ADTs-&gt;Interface</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/126"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/284">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linked List Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List-&gt;Linked List Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/281"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/94">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Search-&gt;Binary Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/92"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/231">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Object</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction-&gt;Object</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/229"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/298">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/295"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/122">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Composition</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Composition</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/119"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/15">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Generics</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Generics</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/11"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/218">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/215"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/274">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack Conceptal View</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack-&gt;Stack Conceptal View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/273"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/205">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Non-recursive Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/204"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/264">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Doubly Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/249"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/307">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Search Tree</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Search Tree</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/301"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/169">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>List Array Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List-&gt;List Array Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/167"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/148">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>SLL Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List-&gt;SLL Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/146"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/289">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Table Handling Collision</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table-&gt;Hash Table Handling Collision</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/286"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/208">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Search</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Search-&gt;Binary Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/206"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/257">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList-&gt;ArrayList Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/254"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/246">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Algorithm Analysis</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Algorithm Analysis</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/239"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/286">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Table</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/285"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/135">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Building Blocks</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/124"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/170">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Linked List Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List-&gt;Linked List Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/167"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/250">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/249"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/123">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Aggregation</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Aggregation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/119"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/16">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Generic Methods</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Generics-&gt;Generic Methods</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/15"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/181">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/171"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/352">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>dr</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/238"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/254">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/249"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/52">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue Linked List Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue-&gt;Queue Linked List Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/49"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/216">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Alg. Definition</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Alg. Definition</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/215"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/117">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Object</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction-&gt;Object</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/115"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/38">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DLL Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List-&gt;DLL Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/36"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/341">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Approximation Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Approximation Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/335"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/189">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Pre-order Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;Pre-order Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/188"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/136">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/135"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/194">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Search Algorithm</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Search Tree-&gt;Search Algorithm</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/193"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/10">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DS</rdfs:label>
+    <rdfs:comment>DS</rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/345">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Distance Measurements</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/342"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189302</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/72">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree BFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Traversal-&gt;Tree BFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/70"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/68">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree Definition</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Definition</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/67"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/285">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Non-linear DS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/238"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/247">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>O Notation</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Algorithm Analysis-&gt;O Notation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/246"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/39">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DLL Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List-&gt;DLL Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/36"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/88">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Graph DFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Graph Traversal-&gt;Graph DFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/87"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/344">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Attribute Type</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/342"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189302</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/240">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ADTs</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;ADTs</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/239"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/4">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Reference Variables</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction-&gt;Object-&gt;Reference Variables</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/3"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/54">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>List Conceptal View</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List-&gt;List Conceptal View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/53"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/17">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Class Generics</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Generics-&gt;Class Generics</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/15"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/67">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/57"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/263">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>SLL Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List-&gt;SLL Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/260"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/332">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/329"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/280">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue Linked List Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue-&gt;Queue Linked List Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/277"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/299">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree DFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Traversal-&gt;Tree DFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/298"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/86">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Adjacent Matrix</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Adjacent Matrix</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/82"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/96">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Insertion Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Insertion Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/95"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/278">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue Conceptal View</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue-&gt;Queue Conceptal View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/277"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/78">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Binary Tree BFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;Binary Tree BFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/74"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/21">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Building Blocks</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/10"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/155">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>CDLL Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List-&gt;CDLL Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/154"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/40">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Circular Doubly Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/21"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/35">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>SLL Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List-&gt;SLL Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/32"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/75">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Pre-order Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;Pre-order Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/74"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/168">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>List Conceptal View</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;List-&gt;List Conceptal View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/167"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/215">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/204"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/248">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Unit Testing</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Unit Testing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/239"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/162">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack Linked List Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack-&gt;Stack Linked List Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/159"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/80">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Search Algorithm</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Search Tree-&gt;Search Algorithm</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/79"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/154">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Circular Doubly Linked List</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/135"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/182">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree Definition</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Definition</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/181"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/13">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Interface</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;ADTs-&gt;Interface</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/12"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/134">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Unit Testing</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Unit Testing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/125"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/104">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Recursive Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/101"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/163">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/158"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/71">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree DFS</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Traversal-&gt;Tree DFS</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/70"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/303">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Pre-order Traversal</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Tree Traversal-&gt;Pre-order Traversal</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/302"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/199">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Adjacent List</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Graph-&gt;Adjacent List</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/196"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/213">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Heap Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Sort-&gt;Heap Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/209"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/339">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Dynamic Programming</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Dynamic Programming</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/335"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/230">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Class</rdfs:label>
+    <rdfs:comment>OOP-&gt;Abstraction-&gt;Class</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/229"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/62">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Map</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/57"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/22">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Array</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Array</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/21"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/164">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue Conceptal View</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue-&gt;Queue Conceptal View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/163"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/153">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DLL Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Doubly Linked List-&gt;DLL Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/150"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/340">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Greedy Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Greedy Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/335"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/333">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Merge Sort</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Recursive Alg.-&gt;Recursive Sort-&gt;Merge Sort</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/332"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/235">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Polymorphism</rdfs:label>
+    <rdfs:comment>OOP-&gt;Class Relation-&gt;Inheritance-&gt;Polymorphism</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/234"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/328">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Non-recursive Alg. Technique</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Non-recursive Alg.-&gt;Non-recursive Alg. Technique</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/319"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/291">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Function (Hash Map)</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Hash Function (Hash Map)</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/290"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/156">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>CDLL Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List-&gt;CDLL Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/154"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/176">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Map</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/171"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/28">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList-&gt;ArrayList Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/26"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/157">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>CDLL Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List-&gt;CDLL Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/154"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/130">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Generic Methods</rdfs:label>
+    <rdfs:comment>DS-&gt;Basics-&gt;Generics-&gt;Generic Methods</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/129"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/343">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Date Preprocessing</rdfs:label>
+    <rdfs:comment></rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189302</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/31">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Reference Variable</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Linked List-&gt;Reference Variable</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/30"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/255">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>ArrayList Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;ArrayList-&gt;ArrayList Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/254"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/271">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>CDLL Removing</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List-&gt;CDLL Removing</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/268"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/293">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Map Handling Collision</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Hash Map Handling Collision</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/290"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/308">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Search Algorithm</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Binary Tree-&gt;Binary Search Tree-&gt;Search Algorithm</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/307"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/288">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Table Conceptual View</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Table-&gt;Hash Table Conceptual View</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/286"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/65">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Hash Map Handling Collision</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Hash Map Handling Collision</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/62"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/183">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Tree Terms</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Tree-&gt;Tree Terms</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/181"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/180">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Java Built-in HashMap</rdfs:label>
+    <rdfs:comment>DS-&gt;Non-linear DS-&gt;Hash Map-&gt;Java Built-in HashMap</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/176"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/279">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Queue Array Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Queue-&gt;Queue Array Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/277"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/48">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Stack Linked List Implementation</rdfs:label>
+    <rdfs:comment>DS-&gt;Linear DS-&gt;Stack-&gt;Stack Linked List Implementation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/45"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179428</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/269">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>CDLL Traversal/Search</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Circular Doubly Linked List-&gt;CDLL Traversal/Search</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/268"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/262">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>SLL Insertion</rdfs:label>
+    <rdfs:comment>DS-&gt;Building Blocks-&gt;Singly Linked List-&gt;SLL Insertion</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/260"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/227">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Approximation Alg.</rdfs:label>
+    <rdfs:comment>Algorithms-&gt;Technique-&gt;Approximation Alg.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://example.com/learning_concepts/221"/>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/318">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Algorithms</rdfs:label>
+    <rdfs:comment>Algorithms</rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191482</ns1:has_course_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/learning_concepts/204">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Algorithms</rdfs:label>
+    <rdfs:comment>Algorithms</rdfs:comment>
+    <ns1:has_course_id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183580</ns1:has_course_id>
+  </rdf:Description>
+</rdf:RDF>
