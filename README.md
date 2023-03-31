@@ -38,4 +38,23 @@ Overall, the notebook demonstrates how NLP techniques and knowledge graphs can b
 
 
 
+Exact match and inexact match:
+
+The code is comparing named entities from two RDF files using three different methods: exact matching, inexact matching, and AI-based semantic matching.
+
+In the exact matching function, the code is comparing named entities by directly comparing their string labels. It loops through each named entity from the first RDF file and checks if it exists in the second RDF file. If a match is found, it adds the entity to a list of matched entities and removes it from the second RDF file. At the end of the loop, it returns the lists of matched and unmatched entities.
+
+In the inexact matching function, the code is using fuzzy string matching to compare named entities. It is using the fuzzywuzzy package to calculate a similarity score between the string labels of the entities. It loops through each named entity from the first RDF file and checks if there is a similar entity in the second RDF file (i.e., a match with a similarity score above a certain threshold). If a match is found, it adds the entity to a list of matched entities and removes it from the second RDF file. At the end of the loop, it returns the lists of matched and unmatched entities.
+
+In the AI-based semantic matching function, the code is using spaCy to compare the semantics of the named entities. It loads a pre-trained spaCy model and loops through each named entity from the first RDF file. For each entity, it finds the most similar entity in the second RDF file using spaCy's semantic similarity function. If a match is found (i.e., a similarity score above a certain threshold), it adds the entity to a list of matched entities and removes it from the second RDF file. At the end of the loop, it returns the lists of matched and unmatched entities.
+
+The matched and unmatched entities are returned as dictionaries, where the keys are the URIs of the named entities and the values are the corresponding labels. This allows for easy handling of matched and unmatched entities, for example for insertion or deletion in a knowledge graph.
+
+
+
+
+
+
+
+
 
