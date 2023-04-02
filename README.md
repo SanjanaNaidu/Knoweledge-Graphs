@@ -52,6 +52,26 @@ The matched and unmatched entities are returned as dictionaries, where the keys 
 
 
 
+Mapping predicts (Check predict functionality. When we conduct predict mapping, we need to consider whether domains are matching or not, ranges are matching or not, and functionalities are matching or not). The function would return matched and unmatched (to decide how to handle unmatched, e.g. for insertion or deletion)
+
+
+This code defines a class called MappingPredictor which is used to compare two RDF graphs (graph1 and graph2) and predict their property mappings.
+
+The __init__ method initializes two RDF graphs, graph1 and graph2, by parsing the RDF/XML files specified by graph1_path and graph2_path respectively.
+
+The predict_mapping method loops through all properties in graph1 and graph2 and compares them using the _match_properties method. If a match is found, the property names are appended to the matched_properties list. If a match is not found, the property name is appended to the unmatched_properties list.
+
+The _match_properties method checks if two given properties match based on their name, domains, ranges, and functionalities. If all of these attributes match, the method returns True, otherwise it returns False.
+
+The _match_domains and _match_ranges methods check if the domains and ranges of two given properties match. If one of the properties does not have a domain or range, it is considered to match.
+
+The _match_functionalities method checks if the two properties are functional (i.e., whether they can have only one value per instance) or not. If the two properties have different functionalities, the method returns False.
+
+Overall, this code can be used as a basic starting point for comparing two RDF graphs and predicting their property mappings, but it may need to be extended or modified depending on the specific requirements of the use case.
+
+
+
+
 
 
 
